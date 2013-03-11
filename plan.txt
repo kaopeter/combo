@@ -1,0 +1,26 @@
+stack holder: it
+
+tool kit :
+    mvc : backbonejs
+    ui widget : bootstrap
+tool : bracket for CSS design HTML dev
+       chrome for JS dev
+
+    
+
+    Goal : remove horzontal scrolling and grid
+    how to display large data, 20 attributes and thousands of records. 
+    css + html template
+
+      a div tag with display area, overflow hidden, 
+      a div tag with input box for filter
+      a div tag for click and display full attributes
+
+      a html templates for record render, display:float
+	
+
+	Grid:  slick grid.
+
+target browser: chrome
+
+
